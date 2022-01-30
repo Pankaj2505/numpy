@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "masking and indexing"
-date:   2021-04-01 15:12:01 +0530
+date:   2021-01-04 15:12:01 +0530
 categories: numpy
 permalink: /:categories/:title
 ---

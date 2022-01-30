@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Computation on Numpy"
-date:   2021-03-01 15:12:01 +0530
+date:   2021-01-03 15:12:01 +0530
 categories: numpy
 permalink: /:categories/:title
 ---
