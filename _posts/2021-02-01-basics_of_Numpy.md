@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Basics of Numpy"
-date:   2021-02-01 15:12:01 +0530
+date:   2021-01-02 15:12:01 +0530
 categories: numpy
 permalink: /:categories/:title
 ---
